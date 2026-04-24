@@ -146,7 +146,7 @@ The **Simply Static** plugin is pre-installed. To generate a static export:
 ---
 
 ## Demo
-[![Demo Video](https://karangreksa.site/wp-content/uploads/2026/04/lp-hero-banner.png)](https://karangreksa.site/wp-content/uploads/2024/10/demo.mp4)
+<video src="https://karangreksa.site/wp-content/uploads/2024/10/demo.mp4" controls width="100%"></video>
 
 ### Pain Points Section
 ![screenshot of pain points section]
