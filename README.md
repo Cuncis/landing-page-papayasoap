@@ -8,6 +8,8 @@ A high-converting product landing page for **Kalysa Soap**, a 100% natural papay
 
 ![screenshot of hero section](https://karangreksa.site/wp-content/uploads/2026/04/lp-hero-banner.png)
 
+**Live Site:** [kalysasoap-wp.vercel.app](https://kalysasoap-wp.vercel.app/)
+
 > *Hero section with headline, product image, and primary CTA button*
 
 ---
@@ -142,44 +144,6 @@ The **Simply Static** plugin is pre-installed. To generate a static export:
 1. Go to **WP Admin → Simply Static → Generate**
 2. The static files will be placed in the configured output directory
 3. Deploy the static output to any hosting provider (Vercel, Netlify, GitHub Pages, etc.)
-
----
-
-## Demo
-<video src="https://karangreksa.site/wp-content/uploads/2024/10/demo.mp4" controls width="100%"></video>
-
-### Pain Points Section
-![screenshot of pain points section]
-
-### Facts & Benefits Section
-![screenshot of facts section]
-
-### Product Introduction
-![screenshot of product introduction section]
-
-### Key Benefits
-![screenshot of key benefits section]
-
-### Customer Reviews (WhatsApp)
-![screenshot of customer reviews WhatsApp section]
-
-### Testimonials
-![screenshot of testimonial]
-
-### Bonus Section
-![screenshot of bonus section]
-
-### Pricing Section
-![screenshot of pricing section]
-
-### Money-Back Guarantee
-![screenshot of money-back guarantee section]
-
-### FAQ Section
-![screenshot of FAQ section]
-
-### Footer
-![screenshot of footer section]
 
 ---
 
