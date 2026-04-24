@@ -6,7 +6,7 @@ A high-converting product landing page for **Kalysa Soap**, a 100% natural papay
 
 ## Preview
 
-![screenshot of hero section]
+![screenshot of hero section](https://karangreksa.site/wp-content/uploads/2026/04/lp-hero-banner.png)
 
 > *Hero section with headline, product image, and primary CTA button*
 
