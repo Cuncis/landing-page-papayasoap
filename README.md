@@ -148,7 +148,7 @@ The **Simply Static** plugin is pre-installed. To generate a static export:
 ## Screenshots
 
 ### Hero Section
-![screenshot of hero section]
+![screenshot of hero section]https://karangreksa.site/wp-content/uploads/2024/10/demo.mp4.
 
 ### Pain Points Section
 ![screenshot of pain points section]
